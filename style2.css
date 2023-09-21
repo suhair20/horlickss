@@ -1,0 +1,209 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 76px;
+    background-color: white;
+    position: fixed;
+}
+.logo{
+    float: left;
+    width: 178px;
+    height: 77px;
+    
+}
+.horlicks{
+    display: inline;
+    width: 80px;
+    float: left;
+    height: 19px;
+    margin-left: 75px;
+    font-size: 27px;
+    margin-top: 21px;
+}
+.img1{
+    width: 178px;
+    height: 79px;
+}
+.junior{
+    float: left;
+    margin-left: 75px;
+    font-size: 26px;
+    margin-top: 20px;
+}
+.nutrimeter{
+    float: left;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-size: 26px;
+}
+.nutrigummis{
+    float: left;
+    margin-top: 17px;
+    font-size: 26px;
+    margin-left: 70px;
+}
+.container{
+    height: 2227px;
+    width: 100%;
+    
+}
+.text{
+    margin-top: 30px;
+    margin-left: 141px;
+    border-radius: 17px;
+    height: 18px;
+    cursor: pointer;
+}
+.text:hover{
+    background-color: rgb(230, 225, 225);
+}
+.main-body1{
+    width: 100%;
+    height: 400px;
+    padding-top: 43px;
+}
+.img2{
+    height:100%;
+    width: 100%;
+}
+.main-body2{
+    width: 100%;
+    height: 527px;
+    
+}
+.right-side{
+    width: 27%;
+    height: 400px;
+    
+    margin-left: 51px;
+    float: left;
+}
+.img3{
+    width: 101px;
+}
+.img4{
+    width: 101px;
+}
+.img5{
+    width: 101px;
+}
+.left-side{
+    width: 56%;
+    height: 400px;
+    
+    float: left;
+
+}
+.img6{
+    width: 211px;
+    border-radius: 45px;
+
+}
+.img7{
+    width: 211px;
+    border-radius: 45px;
+
+}
+.img8{
+    width: 211px;
+    border-radius: 45px;
+}
+.button1{
+    width: 80px;
+    margin-left: 61px;
+    border-radius: 16px;
+    background-color: blue;
+}
+.button2{
+    width: 80px;
+    margin-left: 61px;
+    border-radius: 16px;
+    background-color: blue;
+}
+.button3{
+    width: 80px;
+    margin-left: 61px;
+    border-radius: 16px;
+    background-color: blue;
+}
+.button1:hover{
+    background-color: red;
+}
+.button2:hover{
+    background-color: red;
+}
+.button3:hover{
+    background-color: red;
+}
+.main-body3{
+    width: 100%;
+    height: 400px;
+    background-color: #001365;   
+}
+.right1{
+    margin-left: 64px;
+    float: left;
+    width: 30%;
+    height: 400px;
+    
+}
+.left1{
+    float: left;
+    width: 60%;
+    height: 400px;
+    
+}
+.para{
+    padding-left: 60px;
+    padding-top: 25px;
+    color: blue;
+}
+.img10{
+ float: left;
+ height: 385px;
+ padding-left: 114px;
+}
+.img11{
+float: left;
+height: 385px;
+}
+
+.img12{
+    width: 211px;
+    border-radius: 45px;   
+
+}
+.img13{
+    width: 211px;
+    border-radius: 45px;
+}
+.img14{
+    
+    width: 211px;
+    border-radius: 45px;
+}
+.main-body4{
+    width: 100%;
+    height: 527px;
+    
+}
+.right11{
+    width: 27%;
+    height: 400px;
+    
+    margin-left: 51px;
+    float: left;
+}
+.left11{
+    width: 56%;
+    height: 400px;
+    
+    float: left;
+}
+.footer{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(231, 220, 220);
+}
